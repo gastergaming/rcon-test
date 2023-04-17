@@ -1,0 +1,12 @@
+{
+  "author": "GasterGaming",
+  "name": "rcon",
+  "description": "Showdown - RCON Test",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gastergaming/rcon-test",
+  "repository": "git://github.com/gastergaming/rcon-test",
+  "main": "node-rcon",
+  "dependencies": {
+    "rcon": "^1.1.0"
+  }
+}
